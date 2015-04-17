@@ -1,0 +1,14 @@
+{
+  "name": "talamoig-afs",
+  "version": "0.1.0",
+  "author": "talamoig",
+  "summary": "Puppet module for AFS",
+  "license": "Apache 2.0",
+  "source": "http://github.com/talamoig/puppet-afs",
+  "project_page": "https://github.com/talamoig/puppet-afs",
+  "issues_url": "https://github.com/talamoig/puppet-afs/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
